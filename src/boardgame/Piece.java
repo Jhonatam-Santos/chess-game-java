@@ -1,4 +1,4 @@
-package chess_game_boardgame;
+package boardgame;
 public class Piece {
 	protected Position position;
 	private Board board;
